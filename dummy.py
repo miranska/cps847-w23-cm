@@ -4,5 +4,5 @@ if b != 0:
   c = a/b
   print(c)
 else:
-  print(f"Division by zero of {a}/{b}")
+  print(f"Division by zero of {a}/{b}, some change in main")
 
